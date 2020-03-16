@@ -22,3 +22,22 @@ text-align: center;
     margin-left: 15px;
     padding: 10px;
 }
+.area{
+    text-align: center;
+}
+.symbol{
+    margin-top: 25%;
+   
+}
+.search{
+    box-sizing: border-box;
+    width: 60%;
+    margin-left: 20%;
+    height: 30px;
+    margin-top: 10px;
+    padding: 10px;
+
+
+
+}
+    
