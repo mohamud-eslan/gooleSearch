@@ -36,8 +36,32 @@ text-align: center;
     height: 30px;
     margin-top: 10px;
     padding: 10px;
-
-
-
 }
+.btn{
+    height: 40px;
+    width: auto;
+    color: #646464;
+    background-color: #f2f2f2;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+.footer{
+    background-color: #333;
+  }
+  .footer-left{
+    float: left;
+    }
+    .footer-ryt{
+    float: right;
+    }
+    ul{
+        background: rgb(240, 234, 234);
+    
+    }
+    ul li {
+        display:inline-block;
+        margin: 3px;
+    }
+
     
