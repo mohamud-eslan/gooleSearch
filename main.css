@@ -31,13 +31,13 @@ text-align: center;
 }
 .search{
     box-sizing: border-box;
-    width: 60%;
     margin-left: 20%;
     height: 30px;
     margin-top: 10px;
     padding: 10px;
 }
 .btn{
+    text-align: center;
     height: 40px;
     width: auto;
     color: #646464;
@@ -47,7 +47,7 @@ text-align: center;
     margin: 5px;
 }
 .footer{
-    background-color: #333;
+
   }
   .footer-left{
     float: left;
@@ -61,7 +61,7 @@ text-align: center;
     }
     ul li {
         display:inline-block;
-        margin: 3px;
+        margin: 10px;
     }
 
     
